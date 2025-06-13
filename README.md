@@ -141,12 +141,6 @@ python src/ab_testing_analysis.py
 - **Portfolio**:https://mohamedsul.github.io/portfolio/ 
 - **Email**:Mohsul659@gmail.com
 
-## 📖 References
-
-- Bruce, P., Bruce, A., & Gedeck, P. (2020). *Practical Statistics for Data Scientists*
-- Cohen, J. (1988). *Statistical Power Analysis for the Behavioral Sciences*
-- Deng, A., Knoblich, U., & Lu, J. (2018). *Applying the Delta Method in Metric Analytics*
-
 ---
 
 ⭐ **If you found this analysis helpful, please star this repository!**
